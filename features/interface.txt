@@ -1,0 +1,5 @@
+User Interface Feature
+1. Display a website heading and navigation links.
+2. Use CSS to style event cards and forms.
+3. Provide separate sections for listing, registration and administration.
+4. Support a simple responsive page layout.
