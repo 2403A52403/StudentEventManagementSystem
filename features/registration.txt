@@ -1,0 +1,6 @@
+Student Registration Feature
+1. Enter student name.
+2. Enter a valid email address.
+3. Select an available event.
+4. Submit the registration form.
+5. Display a registration confirmation.
