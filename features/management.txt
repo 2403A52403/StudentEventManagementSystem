@@ -1,0 +1,5 @@
+Admin Event Management Feature
+1. Add new college events.
+2. Update event information.
+3. Remove events when necessary.
+4. Manage event dates and details.
